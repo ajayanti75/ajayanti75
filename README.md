@@ -1,4 +1,4 @@
-# 👋 Hi, Im Aditya Jayanti
+# 👋 Hi, I'm Aditya Jayanti
 
 🏫 Statistics Major at the University of Waterloo, with a minor in CS
 
