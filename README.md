@@ -8,7 +8,7 @@
 
 🔨 Experienced with Python, Java, SQL and several tools and platforms including GCP, AWS, Docker, Airflow, BigQuery, AWS Lambdas, Pandas
 
-🍃 Nature enthusiast who loves to go on treks and am passionate about the environment
+🍃 Nature enthusiast who loves to go on treks and is passionate about the environment
 
 📧 Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/adityajayanti/)
 
