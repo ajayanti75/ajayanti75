@@ -2,7 +2,7 @@
 
 🏫 Statistics Major at the University of Waterloo, with a minor in CS
 
-💻 Data Science intern @ MunichRE, previously Data Eng @ Curinos, DevOps Engineering and Machine Learning Engineering intern @Loblaws
+💻 Previously Data Eng, Data Science intern @ MunichRE, Data Eng @ Curinos, DevOps Engineering and Machine Learning Engineering intern @Loblaws
 
 📖 I love learning new things and am passionate about building scalable, maintainable software that can deploy fast and frequently
 
