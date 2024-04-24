@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Jayanti
 
-🏫 Statistics Major at the University of Waterloo, with a minor in CS
+🏫 Recent Statistics Grad at the University of Waterloo, with a minor in CS
 
 💻 Previously Data Eng, Data Science intern @ MunichRE, Data Eng @ Curinos, DevOps Engineering and Machine Learning Engineering intern @Loblaws
 
