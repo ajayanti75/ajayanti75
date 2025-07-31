@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya Jayanti, 
+# 👋 Hi, I'm Aditya Jayanti
 
 ⚙️ Currently helping end cyber risk @ Arctic Wolf
 
