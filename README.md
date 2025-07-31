@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Aditya Jayanti, and im currently helping end cyber risk @ Arctic Wolf
+# 👋 Hi, I'm Aditya Jayanti, 
 
+⚙️ Currently helping end cyber risk @ Arctic Wolf
 
 🏫 Statistics Grad at the University of Waterloo, with a minor in CS
 
